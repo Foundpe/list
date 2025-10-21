@@ -1,1 +1,3 @@
 minhook:1
+pepe:1
+chaka:1
